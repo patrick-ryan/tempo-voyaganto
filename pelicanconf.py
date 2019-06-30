@@ -44,7 +44,9 @@ EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
 }
-
-EXTRA_INDEX_HEAD_ELEMENTS = [
-	'<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>'
+IGNORE_PATHS = [
+	'__pycache__'
+]
+ARTICLE_EXCLUDES = [
+	'drafts'
 ]
