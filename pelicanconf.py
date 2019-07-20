@@ -25,7 +25,10 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),)
 
 # Social widget
-SOCIAL = (('LinkedIn', 'https://www.linkedin.com/in/patrickuva/'),)
+SOCIAL = (
+    ('LinkedIn', 'https://www.linkedin.com/in/patrickuva/'),
+    ('GitHub', 'https://www.github.com/patrick-ryan')
+)
 
 DEFAULT_PAGINATION = 10
 

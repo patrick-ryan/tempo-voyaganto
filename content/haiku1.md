@@ -10,6 +10,6 @@ a leaf in a coffee storm.
 
 where will it go next?
 
-![Leaf coffee]({static}/images/leaf-coffee.jpg "Leaf coffee")
+<img src="{static}/images/leaf-coffee.jpg" width="20%">
 
 (picture *intentionally* rotated 90 degrees, shut up about it)
